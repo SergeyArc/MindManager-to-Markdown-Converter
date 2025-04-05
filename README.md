@@ -32,6 +32,7 @@ Before running the script, you must convert your `.mmap` file to the `.xmmap` fo
 xml_file_path = 'MapFile.xmmap'  # Path to your MindManager XML file
 output_directory_path = 'output_directory'  # Target directory for Markdown files
 parse_xml_to_files(xml_file_path, output_directory_path)
+```
 
 ## Output
 The script will generate:
